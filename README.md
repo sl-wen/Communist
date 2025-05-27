@@ -18,19 +18,19 @@
 ## 💖消息聚合	
 	
 ### 🚩 学习教程平台(实时维护)
-- [ ] 编程
-- [ ] 维修
-- [ ] 美食
-- [ ] 常识
-- [ ] 摄影
+- [x] 编程 - ([learning_platform/programming.md](learning_platform/programming.md))
+- [x] 维修 - ([learning_platform/maintenance_repair.md](learning_platform/maintenance_repair.md))
+- [x] 美食 - ([learning_platform/cuisine.md](learning_platform/cuisine.md))
+- [x] 常识 - ([learning_platform/common_knowledge.md](learning_platform/common_knowledge.md))
+- [x] 摄影 - ([learning_platform/photography.md](learning_platform/photography.md))
 
   ．．．
 	
-### 🚩 能力在线评测平台	根据能力，评估技能水平
+### 🚩 能力在线评测平台	根据能力，评估技能水平 - ([Details](skills_assessment_platform.md))
 	
-### 🚩 在线兼职平台	根据技能水平，在线兼职
+### 🚩 在线兼职平台	根据技能水平，在线兼职 - ([Details](part_time_job_platform.md))
 	
-### 🚩 在线工作平台（代币薪酬制）	共同合作
+### 🚩 在线工作平台（代币薪酬制）	共同合作 - ([Details](work_platform_token_based.md))
 	
 ---
 
