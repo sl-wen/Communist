@@ -26,22 +26,22 @@
 
   ．．．
 	
-### 🚩 能力在线评测平台	根据能力，评估技能水平 - ([Details](skills_assessment_platform.md))
+### 🚩 能力在线评测平台	根据能力，评估技能水平
 	
-### 🚩 在线兼职平台	根据技能水平，在线兼职 - ([Details](part_time_job_platform.md))
+### 🚩 在线兼职平台	根据技能水平，在线兼职
 	
-### 🚩 在线工作平台（代币薪酬制）	共同合作 - ([Details](work_platform_token_based.md))
+### 🚩 在线工作平台（代币薪酬制）	共同合作
 	
 ---
 
 ## 🎁怎样让这个模式盈利，并正向循环下去	
-- [ ] 区块链代币经济	
-- [ ] 平台搭建激励	
-- [ ] 消息聚合激励	
-- [ ] 平台维护激励（检查，报bug，修复，评测）	
-- [ ] 以币带酬	
-- [ ] 社区投票	
-- [ ] 代币消费销毁机制  
+- [ ] 区块链代币经济 - ([See Proposal](profitability_model.md))	
+- [ ] 平台搭建激励 - ([See Proposal](profitability_model.md))	
+- [ ] 消息聚合激励 - ([See Proposal](profitability_model.md))	
+- [ ] 平台维护激励（检查，报bug，修复，评测） - ([See Proposal](profitability_model.md))	
+- [ ] 以币带酬 - ([See Proposal](profitability_model.md))	
+- [ ] 社区投票 - ([See Proposal](profitability_model.md))	
+- [ ] 代币消费销毁机制 - ([See Proposal](profitability_model.md))  
   ．．．
 ---
 

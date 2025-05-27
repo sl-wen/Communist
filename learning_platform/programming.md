@@ -1,6 +1,6 @@
-# Programming Tutorials
+# 编程教程
 
-This section is dedicated to programming tutorials and resources.
+本部分专门收录编程教程和资源。
 
-## Resources
-- (Add links and resources here)
+## 资源
+- (在此处添加链接和资源)
